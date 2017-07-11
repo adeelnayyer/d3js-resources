@@ -1,0 +1,85 @@
+[{
+    region: 1,
+    category: "Environment",
+    children: [
+        { spot: 1, name: "Cooperative" },
+        { spot: 2, name: "Productive Not Confrontational" },
+        { spot: 3, name: "Productive" },
+        { spot: 4, name: "Energy" },
+        { spot: 5, name: "Professional" },
+        { spot: 6, name: "Encourage Interaction" },
+        { spot: 7, name: "Clean" },
+        { spot: 8, name: "Enjoyable" },
+        { spot: 9, name: "Open Light Modern" }
+    ]
+}, {
+    region: 2,
+    category: "People",
+    children: [
+        { spot: 1, name: "Structure" },
+        { spot: 2, name: "Values Attitude" },
+        { spot: 3, name: "Empowered" },
+        { spot: 4, name: "Roles & Responsibilities" },
+        { spot: 5, name: "Accountable" },
+        { spot: 6, name: "Decisive" },
+        { spot: 7, name: "Collaboration" },
+        { spot: 8, name: "Competency & Skill" },
+        { spot: 9, name: "Lean" }
+    ]
+}, {
+    region: 3,
+    category: "Plan",
+    children: [
+        { spot: 1, name: "Alignment" },
+        { spot: 2, name: "Baseline" },
+        { spot: 3, name: "Communicate" },
+        { spot: 4, name: "Ownership" },
+        { spot: 5, name: "Buy-In" },
+        { spot: 6, name: "Measurable" },
+        { spot: 7, name: "Adapt" },
+        { spot: 8, name: "Robust" },
+        { spot: 9, name: "Realistic" }
+    ]
+}, {
+    region: 4,
+    category: "Information",
+    children: [
+        { spot: 1, name: "In-Time" },
+        { spot: 2, name: "Responsibility" },
+        { spot: 3, name: "Support Delivery" },
+        { spot: 4, name: "Limit Change" },
+        { spot: 5, name: "Quality" },
+        { spot: 6, name: "" },
+        { spot: 7, name: "" },
+        { spot: 8, name: "Distribution" },
+        { spot: 9, name: "" }
+    ]
+}, {
+    region: 5,
+    category: "Delivery",
+    children: [
+        { spot: 1, name: "Aligned Objective" },
+        { spot: 2, name: "Communication" },
+        { spot: 3, name: "Constructive Relationships" },
+        { spot: 4, name: "Remove Constraints" },
+        { spot: 5, name: "Risk Awareness" },
+        { spot: 6, name: "" },
+        { spot: 7, name: "Co-Location" },
+        { spot: 8, name: "Project Goals" },
+        { spot: 9, name: "" }
+    ]
+}, {
+    region: 6,
+    category: "Leadership",
+    children: [
+        { spot: 1, name: "Purpose" },
+        { spot: 2, name: "Vision" },
+        { spot: 3, name: "Communicated" },
+        { spot: 4, name: "Regularly Reinforced" },
+        { spot: 5, name: "Trust" },
+        { spot: 6, name: "" },
+        { spot: 7, name: "Not Constraint by the Rules" },
+        { spot: 8, name: "Let's Do This Again" },
+        { spot: 9, name: "Shared Success" }
+    ]
+}]
